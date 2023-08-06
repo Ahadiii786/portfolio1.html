@@ -301,23 +301,6 @@ body.dark-mode {
   color: rgb(134, 2, 2);
 }
 
-.second .sec
-{
-  margin-left: 10rem;
-  height: 80vh;
-}
-
-.box
-{
-  background: white;
-  width: 80vh;
-  height: 2px;
-  margin: 50px 0;
-}
-
-.gray{
-  color: grey;
-}
 
 /* -----------footer-------- */
 #footer {
